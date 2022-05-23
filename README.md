@@ -2,5 +2,5 @@
 Open [https://github.com/kelvintony/face-recognition-api] <br/>
 the server folder was separted from the clients folder <br/>
 
-## Install all dependences by using <br/>
+## Install all dependencies by using <br/>
 Npm install for both the client and server.
